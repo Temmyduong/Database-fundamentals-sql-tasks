@@ -8,6 +8,7 @@ This repository showcases a collection of SQL and database modelling tasks compl
 - Data insertion and updates
 - Complex SQL querying with joins, subqueries, aggregation
 - View creation, index management, and basic data manipulation
+
 Through these tasks, I have developed hands-on skills in relational database design and data manipulation using standard SQL syntax.
 
 In addition, this project involved working with a variety of database tools and platforms, including:
@@ -15,4 +16,5 @@ In addition, this project involved working with a variety of database tools and 
 - SQLite – for lightweight local testing of SQL logic
 - Oracle Database (via Oracle Live SQL or Oracle SQL Developer) – to practise queries in a professional-grade enterprise environment
 - DBDiagram.io and Lucidchart – to model conceptual ER diagrams using Crow's Foot notation
+
 These tools provided valuable experience with both open-source and enterprise database systems, improving my versatility and adaptability as a database practitioner.
